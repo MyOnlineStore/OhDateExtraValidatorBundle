@@ -13,7 +13,7 @@
     },
     "suggest": {
         "symfony/framework-bundle": "For use without the Symfony framework.",
-    }
+    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
