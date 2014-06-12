@@ -9,10 +9,11 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "*",
-        "symfony/validator": "*",
-        "symfony/form": "*"
+        "symfony/validator": "*"
     },
+    "suggest": {
+        "symfony/framework-bundle": "For use without the Symfony framework.",
+    }
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
