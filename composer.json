@@ -12,7 +12,7 @@
         "symfony/validator": "*"
     },
     "suggest": {
-        "symfony/framework-bundle": "For use without the Symfony framework.",
+        "symfony/framework-bundle": "For integration within the Symfony framework as a bundle.",
     },
     "minimum-stability": "dev",
     "autoload": {
